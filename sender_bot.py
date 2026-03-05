@@ -11,7 +11,7 @@ from pathlib import Path
 
 import requests
 from dotenv import load_dotenv
-from app.paths import (
+from paths import ...
     ACCOUNTS_FILE,
     BASE_DIR,
     COUNTRY_FILE,
