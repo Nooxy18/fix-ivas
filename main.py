@@ -4,8 +4,8 @@ import logging
 from dotenv import load_dotenv
 from telegram.ext import Application
 
-from apps.bot import setup_bot
-from apps.panel_bot import setup_panel
+from bot import setup_bot
+from panel_bot import setup_panel
 
 load_dotenv()
 
