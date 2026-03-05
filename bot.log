@@ -1,0 +1,102 @@
+2026-02-24 07:59:54 | ERROR   | numplus-bot | telegram bot token missing
+2026-02-24 08:02:37 | INFO    | numplus-bot | api health ok | endpoint=https://api.elwe.qzz.io/api/v1/health | body={'status': 'ok'}
+2026-02-24 08:02:37 | INFO    | numplus-bot | started polling | interval=30s | start_date=2025-01-01 | limit=30
+2026-02-24 08:02:37 | INFO    | numplus-bot | press Ctrl+C to stop
+2026-02-24 08:02:37 | INFO    | numplus-bot | no new messages
+2026-02-24 08:07:37 | INFO    | numplus-bot | no new messages
+2026-02-24 08:08:37 | INFO    | numplus-bot | runtime refresh requested | marker=2026-02-24 08:08:36 | api_base=https://api.elwe.qzz.io | start_date=2025-01-01 | limit=30
+2026-02-24 08:08:44 | INFO    | numplus-bot | new messages | count=9
+2026-02-24 08:08:45 | INFO    | numplus-bot | send ok | idx=1 | group=default_group | message_id=753 | code=353-001
+2026-02-24 08:08:46 | INFO    | numplus-bot | send ok | idx=2 | group=default_group | message_id=754 | code=396-629
+2026-02-24 08:08:46 | INFO    | numplus-bot | send ok | idx=3 | group=default_group | message_id=755 | code=923-436
+2026-02-24 08:08:47 | INFO    | numplus-bot | send ok | idx=4 | group=default_group | message_id=756 | code=792-188
+2026-02-24 08:08:48 | INFO    | numplus-bot | send ok | idx=5 | group=default_group | message_id=757 | code=105-133
+2026-02-24 08:08:49 | INFO    | numplus-bot | send ok | idx=6 | group=default_group | message_id=758 | code=420-160
+2026-02-24 08:08:49 | INFO    | numplus-bot | send ok | idx=7 | group=default_group | message_id=759 | code=434-757
+2026-02-24 08:08:50 | INFO    | numplus-bot | send ok | idx=8 | group=default_group | message_id=760 | code=231-758
+2026-02-24 08:08:51 | INFO    | numplus-bot | send ok | idx=9 | group=default_group | message_id=761 | code=936-135
+2026-02-24 08:09:21 | INFO    | numplus-bot | runtime refresh requested | marker=2026-02-24 08:08:40 | api_base=https://api.elwe.qzz.io | start_date=2025-01-01 | limit=30
+2026-02-24 08:12:08 | INFO    | numplus-bot | fetch codes is paused by runtime config
+2026-02-24 08:14:08 | INFO    | numplus-bot | fetch codes is paused by runtime config
+2026-02-24 08:16:08 | INFO    | numplus-bot | fetch codes is paused by runtime config
+2026-02-24 08:16:42 | INFO    | numplus-bot | no new messages
+2026-02-24 08:20:29 | INFO    | numplus-bot | runtime refresh requested | marker=2026-02-24 08:20:01 | api_base=https://api.elwe.qzz.io | start_date=2025-01-01 | limit=30
+2026-02-24 08:22:11 | INFO    | numplus-bot | no new messages
+2026-02-24 08:24:20 | INFO    | numplus-bot | runtime refresh requested | marker=2026-02-24 08:24:19 | api_base=https://api.elwe.qzz.io | start_date=2025-01-01 | limit=30
+2026-02-24 08:24:52 | INFO    | numplus-bot | runtime refresh requested | marker=2026-02-24 08:24:38 | api_base=https://api.elwe.qzz.io | start_date=2025-01-01 | limit=30
+2026-02-24 08:27:39 | INFO    | numplus-bot | no new messages
+2026-02-24 08:33:11 | INFO    | numplus-bot | no new messages
+2026-02-24 08:38:40 | INFO    | numplus-bot | no new messages
+2026-02-24 08:44:10 | INFO    | numplus-bot | no new messages
+2026-02-24 08:49:10 | INFO    | numplus-bot | no new messages
+2026-02-24 08:51:53 | INFO    | numplus-bot | runtime refresh requested | marker=2026-02-24 08:51:44 | api_base=https://api.elwe.qzz.io | start_date=2025-01-01 | limit=30
+2026-02-24 08:52:13 | INFO    | numplus-bot | new messages | count=30
+2026-02-24 08:52:14 | INFO    | numplus-bot | send ok | idx=1 | group=default_group | message_id=849 | code=708-537
+2026-02-24 08:52:15 | INFO    | numplus-bot | send ok | idx=2 | group=default_group | message_id=850 | code=323-154
+2026-02-24 08:52:16 | INFO    | numplus-bot | send ok | idx=3 | group=default_group | message_id=851 | code=455-380
+2026-02-24 08:52:17 | INFO    | numplus-bot | send ok | idx=4 | group=default_group | message_id=852 | code=748-838
+2026-02-24 08:52:17 | INFO    | numplus-bot | send ok | idx=5 | group=default_group | message_id=853 | code=510-995
+2026-02-24 08:52:18 | INFO    | numplus-bot | send ok | idx=6 | group=default_group | message_id=854 | code=672-048
+2026-02-24 08:52:19 | INFO    | numplus-bot | send ok | idx=7 | group=default_group | message_id=855 | code=233-152
+2026-02-24 08:52:20 | INFO    | numplus-bot | send ok | idx=8 | group=default_group | message_id=856 | code=189-505
+2026-02-24 08:52:20 | INFO    | numplus-bot | edit ok | idx=9 | group=default_group | message_id=856 | code=569-963
+2026-02-24 08:52:21 | INFO    | numplus-bot | send ok | idx=10 | group=default_group | message_id=857 | code=473-482
+2026-02-24 08:52:22 | INFO    | numplus-bot | edit ok | idx=11 | group=default_group | message_id=857 | code=457-303
+2026-02-24 08:52:23 | INFO    | numplus-bot | edit ok | idx=12 | group=default_group | message_id=857 | code=363-991
+2026-02-24 08:52:24 | INFO    | numplus-bot | send ok | idx=13 | group=default_group | message_id=858 | code=683-546
+2026-02-24 08:52:24 | INFO    | numplus-bot | edit ok | idx=14 | group=default_group | message_id=858 | code=190-776
+2026-02-24 08:52:25 | INFO    | numplus-bot | send ok | idx=15 | group=default_group | message_id=859 | code=486-255
+2026-02-24 08:52:26 | INFO    | numplus-bot | send ok | idx=16 | group=default_group | message_id=860 | code=811-056
+2026-02-24 08:52:27 | INFO    | numplus-bot | edit ok | idx=17 | group=default_group | message_id=860 | code=761-517
+2026-02-24 08:52:27 | INFO    | numplus-bot | send ok | idx=18 | group=default_group | message_id=861 | code=184-953
+2026-02-24 08:52:28 | INFO    | numplus-bot | send ok | idx=19 | group=default_group | message_id=862 | code=368-423
+2026-02-24 08:52:29 | INFO    | numplus-bot | send ok | idx=20 | group=default_group | message_id=863 | code=297-187
+2026-02-24 08:52:30 | INFO    | numplus-bot | send ok | idx=21 | group=default_group | message_id=864 | code=820-896
+2026-02-24 08:52:31 | INFO    | numplus-bot | send ok | idx=22 | group=default_group | message_id=865 | code=279-996
+2026-02-24 08:52:31 | INFO    | numplus-bot | send ok | idx=23 | group=default_group | message_id=866 | code=416-572
+2026-02-24 08:52:32 | INFO    | numplus-bot | send ok | idx=24 | group=default_group | message_id=867 | code=735-226
+2026-02-24 08:52:33 | INFO    | numplus-bot | send ok | idx=25 | group=default_group | message_id=868 | code=172-841
+2026-02-24 08:52:34 | INFO    | numplus-bot | send ok | idx=26 | group=default_group | message_id=869 | code=303-781
+2026-02-24 08:52:34 | INFO    | numplus-bot | send ok | idx=27 | group=default_group | message_id=870 | code=269-022
+2026-02-24 08:52:35 | INFO    | numplus-bot | send ok | idx=28 | group=default_group | message_id=871 | code=588-357
+2026-02-24 08:52:36 | INFO    | numplus-bot | edit ok | idx=29 | group=default_group | message_id=871 | code=280-818
+2026-02-24 08:52:37 | INFO    | numplus-bot | send ok | idx=30 | group=default_group | message_id=872 | code=386-512
+2026-02-24 08:53:24 | INFO    | numplus-bot | new messages | count=2
+2026-02-24 08:53:25 | INFO    | numplus-bot | send ok | idx=1 | group=default_group | message_id=877 | code=468-547
+2026-02-24 08:53:25 | INFO    | numplus-bot | edit ok | idx=2 | group=default_group | message_id=872 | code=521-455
+2026-02-24 08:54:12 | INFO    | numplus-bot | no new messages
+2026-02-24 08:55:45 | INFO    | numplus-bot | new messages | count=2
+2026-02-24 08:55:46 | INFO    | numplus-bot | send ok | idx=1 | group=default_group | message_id=878 | code=478-973
+2026-02-24 08:55:47 | INFO    | numplus-bot | edit ok | idx=2 | group=default_group | message_id=878 | code=637-482
+2026-02-24 08:59:37 | INFO    | numplus-bot | no new messages
+2026-02-24 09:00:07 | INFO    | numplus-bot | runtime refresh requested | marker=2026-02-24 09:00:02 | api_base=https://api.elwe.qzz.io | start_date=2025-01-01 | limit=30
+2026-02-24 09:03:12 | INFO    | numplus-bot | runtime refresh requested | marker=2026-02-24 09:02:47 | api_base=https://api.elwe.qzz.io | start_date=2025-01-01 | limit=30
+2026-02-24 09:04:57 | INFO    | numplus-bot | no new messages
+2026-02-24 09:06:59 | INFO    | numplus-bot | runtime refresh requested | marker=2026-02-24 09:06:22 | api_base=https://api.elwe.qzz.io | start_date=2025-01-01 | limit=30
+2026-02-24 09:10:26 | INFO    | numplus-bot | no new messages
+2026-02-24 09:15:48 | INFO    | numplus-bot | no new messages
+2026-02-24 09:17:51 | INFO    | numplus-bot | runtime refresh requested | marker=2026-02-24 09:17:04 | api_base=https://api.elwe.qzz.io | start_date=2025-01-01 | limit=30
+2026-02-24 09:21:19 | INFO    | numplus-bot | no new messages
+2026-02-24 09:23:24 | INFO    | numplus-bot | runtime refresh requested | marker=2026-02-24 09:23:12 | api_base=https://api.elwe.qzz.io | start_date=2025-01-01 | limit=30
+2026-02-24 09:26:44 | INFO    | numplus-bot | no new messages
+2026-02-24 09:28:01 | INFO    | numplus-bot | api health ok | endpoint=https://api.elwe.qzz.io/api/v1/health | body={'status': 'ok'}
+2026-02-24 09:28:01 | INFO    | numplus-bot | account ready | account=near
+2026-02-24 09:28:01 | INFO    | numplus-bot | started polling | interval=30s | start_date=2025-01-01 | limit=30
+2026-02-24 09:28:01 | INFO    | numplus-bot | press Ctrl+C to stop
+2026-02-24 09:28:18 | INFO    | numplus-bot | no new messages
+2026-02-24 09:30:25 | INFO    | numplus-bot | runtime refresh requested | marker=2026-02-24 09:30:13 | api_base=https://api.elwe.qzz.io | start_date=2026-02-24 | limit=30
+2026-02-24 09:30:28 | INFO    | numplus-bot | new messages | count=4
+2026-02-24 09:30:29 | INFO    | numplus-bot | send ok | idx=1 | group=-1003177035984 | message_id=1960 | code=653-866
+2026-02-24 09:30:30 | INFO    | numplus-bot | send ok | idx=2 | group=-1003177035984 | message_id=1961 | code=999-063
+2026-02-24 09:30:30 | INFO    | numplus-bot | send ok | idx=3 | group=-1003177035984 | message_id=1962 | code=593-517
+2026-02-24 09:30:31 | INFO    | numplus-bot | edit ok | idx=4 | group=-1003177035984 | message_id=1962 | code=177-133
+2026-02-24 09:33:47 | INFO    | numplus-bot | no new messages
+2026-02-24 09:39:19 | INFO    | numplus-bot | no new messages
+2026-02-24 09:44:49 | INFO    | numplus-bot | no new messages
+2026-02-24 09:50:23 | INFO    | numplus-bot | no new messages
+2026-02-24 09:54:31 | INFO    | numplus-bot | new messages | count=1
+2026-02-24 09:54:32 | INFO    | numplus-bot | send ok | idx=1 | group=-1003177035984 | message_id=1963 | code=513-240
+2026-02-24 09:55:02 | INFO    | numplus-bot | runtime refresh requested | marker=2026-02-24 09:54:38 | api_base=https://api.elwe.qzz.io | start_date=2026-02-24 | limit=30
+2026-02-24 09:55:39 | INFO    | numplus-bot | no new messages
+2026-02-24 10:00:40 | INFO    | numplus-bot | no new messages
+2026-02-24 10:06:12 | INFO    | numplus-bot | no new messages
